@@ -14,7 +14,6 @@ fifth changes
 - `git switch -c <branchh name> ` : creates and move in 1 command
    - `git checkout -b <branch_name>`
 
-This is text that I haven't commited yet
 - `git stash` : temp saves current state as a commit so you can `checkout` or `switch`
  - `git stash apply`  to apply the last stash from the stack
 
