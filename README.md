@@ -17,3 +17,4 @@ fifth changes
 - `git stash` : temp saves current state as a commit so you can `checkout` or `switch`
  - `git stash apply`  to apply the last stash from the stack
 
+-- modifiying changes for my_second_branch
