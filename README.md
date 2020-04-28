@@ -11,3 +11,5 @@ fifth changes
 - `git branch <branch name> ` : Create a new branch
 - `git switch <branch name> ` : move to a branch
    - `git checkout <branch name> ' : old way of moving to branch
+- `git switch -c <branchh name> ` : creates and move in 1 command
+   - `git checkout -b <branch_name>`
