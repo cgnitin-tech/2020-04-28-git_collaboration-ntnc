@@ -5,3 +5,9 @@ Second Changes
 third changes
 third changes
 fifth changes
+
+
+## Branches
+- `git branch <branch name> ` : Create a new branch
+- `git switch <branch name> ` : move to a branch
+   - `git checkout <branch name> ' : old way of moving to branch
